@@ -33,6 +33,7 @@ The distribution plot of Customers' Support Calls. It can be seen that there are
    - Logistic Regression have 98% recall (standard) and 97% recall (oversampling using SMOTE)
    - Random Forest have 100% recall (standard) and 100% recall (oversampling using SMOTE)
    - Logistic Regression have 100% recall (standard) and 100% recall (oversampling using SMOTE)
+   
    It means all three models predict over 95 churned customer out of 100 predicted churned customer. The company can use one of the models to predict churned customers.
 
 
