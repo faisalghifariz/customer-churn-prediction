@@ -36,6 +36,6 @@ The distribution plot of Customers' Support Calls. It can be seen that there are
    
    It means all three models predict over 95 churned customer out of 100 predicted churned customer. The company can use one of the models to predict churned customers.
 
-For comprehensive process, please check the script provided.
+**For comprehensive process & results, please check the script provided.**
 
 **Interested to see presentation version of this project? You can view the presentation version [here](https://www.linkedin.com/feed/update/urn:li:activity:7140013902850842624/) in my Linkedin!**
