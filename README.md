@@ -18,7 +18,7 @@ The notebook is structured this way:
 7. **Modeling with Oversampling**: Building Machine Learning models using oversampling method (SMOTE).
 8. **Key Insight & Recommendation**: Key insights and results of Machine Learning modeling for customer churn prediction and recommendations for actions that can be taken to reduce and prevent customer churn.
 
-## Key Findings
+## Highlighted Key Findings
 1. **A feature which is the strongest predictor of customer churn: Support Calls.** This can refer to bad customer service (customer with more Support Calls tend to churn) or bad service. The company have to investigate to understand why there are many customers with very high Support Calls that leads to churn and address the issue immediately.
 
 Boxplot of Customers' Support Calls, categorized by Churn
@@ -36,6 +36,6 @@ The distribution plot of Customers' Support Calls. It can be seen that there are
    
    It means all three models predict over 95 churned customer out of 100 predicted churned customer. The company can use one of the models to predict churned customers.
 
-
+For comprehensive process, please check the script provided.
 
 **Interested to see presentation version of this project? You can view the presentation version [here](https://www.linkedin.com/feed/update/urn:li:activity:7140013902850842624/) in my Linkedin!**
