@@ -19,7 +19,7 @@ The notebook is structured this way:
 8. **Key Insight & Recommendation**: Key insights and results of Machine Learning modeling for customer churn prediction and recommendations for actions that can be taken to reduce and prevent customer churn.
 
 # Key Findings
-1. A feature which is the strongest predictor of customer churn: Support Calls. This can refer to bad customer service (customer with more Support Calls tend to churn) or bad service. The company have to investigate to understand why there are many customers with very high Support Calls and address the issue immediately.
+1. **A feature which is the strongest predictor of customer churn: Support Calls.** This can refer to bad customer service (customer with more Support Calls tend to churn) or bad service. The company have to investigate to understand why there are many customers with very high Support Calls that leads to churn and address the issue immediately.
 
 Boxplot of Customers' Support Calls, categorized by Churn
 
@@ -29,11 +29,11 @@ The distribution plot of Customers' Support Calls. It can be seen that there are
 
 ![image](https://github.com/faisalghifariz/customer-churn-prediction/assets/90921520/ec5736a2-cec6-48d5-b2eb-3644251d4a72)
 
-2. 3 Machine Learning methods used (Logistic Regression, Random Forest, and XGBoost) show great performance on predicting churned customer.
+2. **3 Machine Learning methods used (Logistic Regression, Random Forest, and XGBoost) show great performance on predicting churned customer.**
    - Logistic Regression have 98% recall (standard) and 97% recall (oversampling using SMOTE)
    - Random Forest have 100% recall (standard) and 100% recall (oversampling using SMOTE)
    - Logistic Regression have 100% recall (standard) and 100% recall (oversampling using SMOTE)
    It means all three models predict over 95 churned customer out of 100 predicted churned customer. The company can use one of the models to predict churned customers.
 
 
-Interested to see presentation version of this project? You can view the presentation version [here](https://www.linkedin.com/feed/update/urn:li:activity:7140013902850842624/) in my lLinkedin!
+**Interested to see presentation version of this project? You can view the presentation version [here](https://www.linkedin.com/feed/update/urn:li:activity:7140013902850842624/) in my Linkedin!**
